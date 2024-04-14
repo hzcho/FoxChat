@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "338429239394",
+    "firebase_url": "https://fogiusab-default-rtdb.firebaseio.com",
+    "project_id": "fogiusab",
+    "storage_bucket": "fogiusab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338429239394:android:cb7e98319a2e450b01713b",
+        "android_client_info": {
+          "package_name": "com.example.foxchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAd33EUYTUhL1nvS29c0bocPcYPzmSNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338429239394:android:b1c3f2fc19feb23701713b",
+        "android_client_info": {
+          "package_name": "com.example.myfirebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAd33EUYTUhL1nvS29c0bocPcYPzmSNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
